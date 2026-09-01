@@ -1,3 +1,5 @@
+<img src="revslider.svg" alt="revslider" width="120">
+
 # revslider
 Popular WordPress Plugin folder with files for the latest PHP version 
 
